@@ -110,6 +110,12 @@ export const projects: Project[] = [
     status: "Active",
     link: "https://bajarun-2026.web.app",
     members: ["Kevin Coleman"],
+    screenshots: [
+      "/baja-profile.jpeg",
+      "/baja-alerts.jpeg",
+      "/baja-gallery.jpeg",
+      "/baja-itinerary.jpeg",
+    ],
   },
 ];
 
