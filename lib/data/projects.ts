@@ -112,3 +112,4 @@ export const projects: Project[] = [
     members: ["Kevin Coleman"],
   },
 ];
+
